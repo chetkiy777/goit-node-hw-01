@@ -12,5 +12,9 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "bson-objectid": "^2.0.3",
+    "yargs": "^17.5.1"
   }
 }
